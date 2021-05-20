@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 nee
 nee2
 aaa
+=======
+hola
+>>>>>>> parent of a618a22 (segundo commit)
